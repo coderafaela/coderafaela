@@ -35,18 +35,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Rafaela's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
-
-</div>
-
----
-
 ## 🎓 Formação Acadêmica
 
 - 🖥️ **Análise e Desenvolvimento de Sistemas** — UNIFOR *(2026–2029)*
