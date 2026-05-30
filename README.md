@@ -66,7 +66,6 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&color=58a6ff&style=flat-square" alt="visitors" />
 
   *"Onde criatividade encontra lógica."* ✨
 </div>
