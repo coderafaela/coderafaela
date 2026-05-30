@@ -48,7 +48,6 @@
 - Praticando C#: laços de repetição — Alura
 - C#: criando sua primeira aplicação — Alura
 - Pensamento Computacional: fundamentos e lógica de programação — Alura
-- 
 ---
 
 ## 🚀 O que estou construindo agora
