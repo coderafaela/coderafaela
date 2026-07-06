@@ -23,7 +23,7 @@
 ### 💙 Back-End
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### 🧩 Conceitos & Paradigmas
@@ -44,10 +44,12 @@
 <details>
 <summary>✅ Certificações (Alura)</summary>
 
+**Carreira Back-End .NET**
 - Praticando C#: variáveis e tipos
 - Praticando C#: condicionais com if/else e switch/case
 - Praticando C#: laços de repetição
 - C#: criando sua primeira aplicação
+- C#: aplicando a Orientação a Objetos
 - Pensamento Computacional: fundamentos e lógica de programação
 
 </details>
