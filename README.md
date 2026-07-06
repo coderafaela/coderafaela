@@ -45,11 +45,12 @@
 <summary>✅ Certificações (Alura)</summary>
 
 **Carreira Back-End .NET**
+- Praticando C#: orientação a objetos com classes
+- C#: aplicando a Orientação a Objetos
 - Praticando C#: variáveis e tipos
 - Praticando C#: condicionais com if/else e switch/case
 - Praticando C#: laços de repetição
 - C#: criando sua primeira aplicação
-- C#: aplicando a Orientação a Objetos
 - Pensamento Computacional: fundamentos e lógica de programação
 
 </details>
