@@ -1,5 +1,4 @@
 # Olá! Eu sou a Rafaela A. Quevedo! 👋
-
 > Desenvolvedora Back-End em formação | Estudante de ADS | Fortaleza, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-aquevedo)
@@ -11,8 +10,8 @@
 
 ```txt
 🎓 Estudante de Análise e Desenvolvimento de Sistemas @ UNIFOR (2026–2029)
-💻 Foco em Back-End: C#, .NET, APIs REST e lógica de programação
-🤖 Explorando ASP.NET Core, Entity Framework, Cloud (Azure) e Azure AI.
+💻 Foco em Back-End: C#, .NET, POO, APIs REST e lógica de programação
+🤖 Explorando ASP.NET Core, Entity Framework, Cloud (Azure) e Azure AI
 💡 Background criativo que me dá visão multidisciplinar no código
 📍 Fortaleza, Ceará, Brasil
 ```
@@ -27,6 +26,10 @@
 ![LINQ](https://img.shields.io/badge/LINQ-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
+### 🧩 Conceitos & Paradigmas
+![POO](https://img.shields.io/badge/POO-4B8BBE?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Lógica de Programação](https://img.shields.io/badge/Lógica%20de%20Programação-4B8BBE?style=for-the-badge&logo=codeigniter&logoColor=white)
+
 ### 🔧 Ferramentas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -36,29 +39,39 @@
 ---
 
 ## 🎓 Formação Acadêmica
-
 - 🖥️ **Análise e Desenvolvimento de Sistemas** — UNIFOR *(2026–2029)*
 
+<details>
+<summary>✅ Certificações (Alura)</summary>
+
+- Praticando C#: variáveis e tipos
+- Praticando C#: condicionais com if/else e switch/case
+- Praticando C#: laços de repetição
+- C#: criando sua primeira aplicação
+- Pensamento Computacional: fundamentos e lógica de programação
+
+</details>
+
 ---
 
-## ✅ Certificações
+## 🚀 Projetos
 
-- Praticando C#: variáveis e tipos — Alura
-- Praticando C#: condicionais com if/else e switch/case — Alura
-- Praticando C#: laços de repetição — Alura
-- C#: criando sua primeira aplicação — Alura
-- Pensamento Computacional: fundamentos e lógica de programação — Alura
+### 🎵 [TuneRater](https://github.com/rafaela-aquevedo/tunerater)
+Aplicação de terminal em C# para cadastrar e avaliar bandas e artistas solo, usando `Dictionary<string, List<double>>` para armazenar as notas. Interface com arte ASCII e menu de 9 opções.
+
+### 📚 Controle de Tradução de Sagas
+Sistema em C# que organiza autores, sagas e livros, indicando quais obras já possuem tradução para o português — feito para acompanhar o lançamento de séries estrangeiras.
+
 ---
 
-## 🚀 O que estou construindo agora
-
-- 🎵 **TuneRater** — projeto em C# (repositório público)
-- 📡 Estudando C#, ASP.NET Core, Entity Framework, Cloud (Azure) e Azure AI.
+## 📡 Estudando agora
+- ASP.NET Core
+- Entity Framework
+- Cloud (Azure) e Azure AI
 
 ---
 
 ## 💬 Curiosidades
-
 - 🔄 Em transição de carreira — trazendo experiência de comunicação e criatividade pro código
 - 💡 Acredito que clareza de comunicação e código limpo falam a mesma língua
 - 🌱 Aprendendo algo novo todo dia
@@ -67,5 +80,6 @@
 
 <div align="center">
 
-  *"Onde criatividade encontra lógica."* ✨
+*"Onde criatividade encontra lógica."* ✨
+
 </div>
