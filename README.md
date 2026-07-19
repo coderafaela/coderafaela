@@ -63,7 +63,7 @@
 Aplicação de terminal em C# para cadastrar e avaliar bandas e artistas solo, usando `Dictionary<string, List<double>>` para armazenar as notas. Interface com arte ASCII e menu de 9 opções.
 
 ### 📚 [SecretChapter](https://github.com/coderafaela/SecretChapter)
-Sistema em C# que organiza autores, sagas e livros, indicando quais obras já possuem tradução para o português — feito para acompanhar o lançamento de séries estrangeiras.
+Sistema em C# que organiza autores e livros, fazendo cálculo de avaliação de cada livro. 
 
 ---
 
