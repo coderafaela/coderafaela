@@ -1,4 +1,4 @@
-# Olá! Eu sou a Rafaela A. Quevedo! 👋
+# Olá! Eu sou a Rafaela A. Quevedo! 👽
 
 > Desenvolvedora Back-End em formação | Estudante de ADS | Fortaleza, Brasil
 
