@@ -1,5 +1,5 @@
 # Olá! Eu sou a Rafaela A. Quevedo! 👋
-> Desenvolvedora Back-End | C# | .NET | Python | SQL | Estudante de ADS | Fortaleza, Brasil
+> Desenvolvedora Back-End em formação | Estudante de ADS | Fortaleza, Brasil
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaela-aquevedo)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aquevedorafaela@gmail.com)
 ---
@@ -40,7 +40,7 @@
 <details>
 <summary>✅ Certificações (Alura)</summary>
 
-- Carreira: Back-End .NET — 17%
+- Carreira Back-End .NET — 17%
 - Carreira: Especialista em IA — 3%
 </details>
 ---
