@@ -11,9 +11,7 @@
 
 ```txt
 🎓 Estudante de Análise e Desenvolvimento de Sistemas @ UNIFOR (2026–2029)
-💻 Foco em Back-End: C#, .NET, POO, LINQ, APIs REST
-🗄️ Trabalhando com SQL e consumo de APIs externas
-🤖 Explorando Python e IA como especialização complementar ao .NET
+💻 Estudos focados em Back-End e em IA, com complemento de banco de dados: C#, .NET, POO, LINQ, APIs REST, SQL, consumo de APIs, Python e IA
 💡 Background criativo que me dá visão multidisciplinar no código
 📍 Fortaleza, Ceará, Brasil
 ```
